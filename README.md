@@ -25,7 +25,7 @@ If you are not familiar with the different technologies used in this project, pl
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
 
-## ⚙️ Rodando o Projeto
+## ⚙️ Running the Project
 ```bash
 # Clone este repositório para a pasta anterior
 $ https://github.com/WGS-94/ArcGISMapSDKforJavaScript
