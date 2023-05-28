@@ -35,3 +35,22 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+## ⚙️ Rodando o Projeto
+```bash
+# Clone este repositório para a pasta anterior
+$ https://github.com/WGS-94/ArcGISMapSDKforJavaScript
+# ou use a opção de download.
+# Acesse a pasta ArcGISMapSDKforJavaScript
+$ cd ArcGISMapSDKforJavaScript
+# Instale as dependências
+$ npm install
+ou
+$ yarn install
+# Executando o Projeto
+$ npm run start
+ou
+$ yarn start
+# Acesse http://localhost:3000 no seu navagador
+```
+Done with ♥ by WGS-94
