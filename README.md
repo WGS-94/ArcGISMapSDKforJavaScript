@@ -4,6 +4,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+Interenssante, voce pode escrever seu código e tipos e validação do tempo de execução
+
+Create T3
+Typecript
+Zod
+crpc
+Tailwind
+
 ```bash
 npm run dev
 # or
