@@ -26,9 +26,9 @@ We try to keep this project as simple as possible, so you can start with just th
 ## ⚙️ Running the Project
 ```bash
 # Clone este repositório para a pasta anterior
-$ https://github.com/WGS-94/arcgis-create-t3-app
+$ https://github.com/WGS-94/Arcgis-create-t3-app
 # ou use a opção de download.
-# Acesse a pasta arcgis-create-t3-app
+# Acesse a pasta Arcgis-create-t3-app
 $ cd ArcGISMapSDKforJavaScript
 # Instale as dependências
 $ npm install
