@@ -15,8 +15,6 @@ We try to keep this project as simple as possible, so you can start with just th
 </div> 
 -->
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
 ## 🧰 Tecnologies and libraries
 
 - [Next.js](https://nextjs.org)
@@ -55,5 +53,7 @@ To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the fo
 - [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
 
 You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+
+If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join their [Discord](https://t3.gg/discord) and ask for help.
 
 Done with ♥ by WGS-94
