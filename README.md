@@ -29,7 +29,7 @@ We try to keep this project as simple as possible, so you can start with just th
 $ https://github.com/WGS-94/Arcgis-create-t3-app
 # ou use a opção de download.
 # Acesse a pasta Arcgis-create-t3-app
-$ cd ArcGISMapSDKforJavaScript
+$ cd Arcgis-create-t3-app
 # Instale as dependências
 $ npm install
 ou
